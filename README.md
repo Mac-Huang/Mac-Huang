@@ -2,7 +2,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xuming.ai-blue?style=flat-square&logo=google-chrome)](https://xuming.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xuminghuang-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xuminghuang/)
-[![GitHub](https://img.shields.io/badge/GitHub-mac--huang-181717?style=flat-square&logo=github)](https://github.com/mac-huang)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Xuming_Huang-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Wd0QQ7kAAAAJ&hl=en)
 
 ## 🚀 About Me
