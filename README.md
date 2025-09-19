@@ -17,17 +17,16 @@ Currently advised by [Prof. Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~rem
 
 Transforming months of manual security analysis into hours of automated discovery through:
 
-- 🤖 Large Language Models for code understanding
+- 🤖 Large Language Models pipeline for anti-pattern understanding and checkers generation 
 - 🔍 RAG-enhanced vulnerability detection
-- 🛡️ Automated Linux kernel security analysis
+- 🛡️ Machine Learning powered reliability of critical system software
 
 ## 🛠️ Tech Stack
 
 ```python
-languages = ["Python", "Java", "JavaScript", "C/C++", "Go"]
-ml_frameworks = ["PyTorch", "TensorFlow", "JAX"]
+languages = ["C/C++", "Python", "Java", "Verilog", "Swift"]
+ml_frameworks = ["PyTorch", "TensorFlow"]
 systems = ["Linux Kernel", "LLVM", "WebAssembly", "x86-64"]
-web = ["React", "D3.js", "Three.js", "Node.js"]
 ```
 
 ## 📊 GitHub Stats
@@ -38,7 +37,7 @@ web = ["React", "D3.js", "Three.js", "Node.js"]
 ## 📫 Get in Touch
 
 - 🌐 Portfolio: [xuming.ai](https://xuming.ai)
-- 📧 Email: xhuang497 [at] wisc [dot] edu
+- 📧 Email: xuming [at] cs [dot] wisc [dot] edu
 - 💼 LinkedIn: [xuminghuang](https://www.linkedin.com/in/xuminghuang/)
 
 ---
