@@ -27,8 +27,3 @@ systems = ["Linux Kernel", "LLVM", "WebAssembly", "x86-64"]
 ---
 
 *"Transforming bold ideas into rigorous research where AI meets low-level code"*
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mac-huang&show_icons=true&theme=gradient&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&icon_color=58A6FF)
